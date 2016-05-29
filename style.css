@@ -1,0 +1,505 @@
+﻿sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.stl_01 {
+	border-style: none;
+	position: relative;
+	width: 595pt;
+	margin: 0pt;
+	height: 842pt;
+	display: inline-block;
+}
+.stl_02 {
+	position: absolute;
+	left: 0pt;
+	top: 0pt;
+}
+.stl_03 {
+	position: absolute;
+	line-height: 13.40625pt;
+	left: 165.32pt;
+	top: 29.53674pt;
+}
+@font-face {
+	font-family:"RUHOVO+Helvetica";
+	src:url("45c2bac3-0000-0000-0000-000000000000.ttf");
+}
+.stl_04 {
+	color: #000000;
+	display: inline;
+	font-size: 12pt;
+	font-family: "RUHOVO+Helvetica";
+}
+.stl_05 {
+	position: absolute;
+	line-height: 15.64062pt;
+	left: 385pt;
+	top: 30.62616pt;
+}
+.stl_06 {
+	color: #000000;
+	display: inline;
+	font-size: 14pt;
+	font-family: "RUHOVO+Helvetica";
+}
+.stl_07 {
+	position: absolute;
+	line-height: 12.28906pt;
+	left: 376.12pt;
+	top: 59.09198pt;
+}
+.stl_08 {
+	color: #000000;
+	display: inline;
+	font-size: 11pt;
+	font-family: "RUHOVO+Helvetica";
+}
+.stl_09 {
+	position: absolute;
+	line-height: 24pt;
+	left: 417.19pt;
+	top: 80.62616pt;
+}
+.stl_10 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 181.09pt;
+	top: 49.35779pt;
+}
+.stl_11 {
+	color: #000000;
+	display: inline;
+	font-size: 8pt;
+	font-family: "RUHOVO+Helvetica";
+}
+.stl_12 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 172.68pt;
+	top: 69.35779pt;
+}
+.stl_13 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 29pt;
+	top: 115.3578pt;
+}
+.stl_14 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 107pt;
+	top: 115.4473pt;
+}
+.stl_15 {
+	color: #000000;
+	display: inline;
+	font-size: 10pt;
+	font-family: "RUHOVO+Helvetica";
+}
+.stl_16 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 29pt;
+	top: 132.3578pt;
+}
+.stl_17 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 29pt;
+	top: 148.3578pt;
+}
+.stl_18 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 107pt;
+	top: 132.4473pt;
+}
+.stl_19 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 319pt;
+	top: 131.3578pt;
+}
+.stl_20 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 437pt;
+	top: 131.4473pt;
+}
+.stl_21 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 107pt;
+	top: 148.4473pt;
+}
+.stl_22 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 318pt;
+	top: 148.3578pt;
+}
+.stl_23 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 29pt;
+	top: 177.3578pt;
+}
+.stl_24 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 318pt;
+	top: 177.3578pt;
+}
+.stl_25 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 444pt;
+	top: 177.4473pt;
+}
+.stl_26 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 99pt;
+	top: 179.1273pt;
+}
+.stl_27 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 322.73pt;
+	top: 203.4473pt;
+}
+.stl_28 {
+	position: absolute;
+	line-height: 10.05469pt;
+	left: 433.25pt;
+	top: 204.4326pt;
+}
+.stl_29 {
+	color: #000000;
+	display: inline;
+	font-size: 9pt;
+	font-family: "RUHOVO+Helvetica";
+}
+.stl_30 {
+	position: absolute;
+	line-height: 10.05469pt;
+	left: 429pt;
+	top: 214.9025pt;
+}
+.stl_31 {
+	position: absolute;
+	line-height: 10.05469pt;
+	left: 50.75pt;
+	top: 209.6725pt;
+}
+.stl_32 {
+	position: absolute;
+	line-height: 10.05469pt;
+	left: 177.75pt;
+	top: 209.6725pt;
+}
+.stl_33 {
+	position: absolute;
+	line-height: 10.05469pt;
+	left: 360pt;
+	top: 209.6725pt;
+}
+.stl_34 {
+	position: absolute;
+	line-height: 10.05469pt;
+	left: 507.5pt;
+	top: 209.6725pt;
+}
+.stl_35 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 110pt;
+	top: 227.4473pt;
+}
+.stl_36 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 321.39pt;
+	top: 228.4473pt;
+}
+.stl_37 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 321.39pt;
+	top: 253.4473pt;
+}
+.stl_38 {
+	position: absolute;
+	line-height: 25pt;
+	left: 321.39pt;
+	top: 278.4473pt;
+}
+.stl_39 {
+	position: absolute;
+	line-height: 25pt;
+	left: 321.39pt;
+	top: 303.4473pt;
+}
+.stl_40 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 373.27pt;
+	top: 226.4473pt;
+}
+.stl_41 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 373.27pt;
+	top: 251.4473pt;
+}
+.stl_42 {
+	position: absolute;
+	line-height: 25pt;
+	left: 373.27pt;
+	top: 276.4473pt;
+}
+.stl_43 {
+	position: absolute;
+	line-height: 25pt;
+	left: 373.27pt;
+	top: 301.4473pt;
+}
+.stl_44 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 463.54pt;
+	top: 226.4473pt;
+}
+.stl_45 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 544.54pt;
+	top: 226.4473pt;
+}
+.stl_46 {
+	position: absolute;
+	line-height: 10.05469pt;
+	left: 36.5pt;
+	top: 228.4025pt;
+}
+.stl_47 {
+	position: absolute;
+	line-height: 10.05469pt;
+	left: 36.5pt;
+	top: 253.4025pt;
+}
+.stl_48 {
+	position: absolute;
+	line-height: 25pt;
+	left: 36.5pt;
+	top: 278.4025pt;
+}
+.stl_49 {
+	position: absolute;
+	line-height: 25pt;
+	left: 36.5pt;
+	top: 303.4025pt;
+}
+.stl_50 {
+	position: absolute;
+	line-height: 10.05469pt;
+	left: 72.99pt;
+	top: 228.4025pt;
+}
+.stl_51 {
+	position: absolute;
+	line-height: 10.05469pt;
+	left: 72.99pt;
+	top: 253.4025pt;
+}
+.stl_52 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 110pt;
+	top: 252.4473pt;
+}
+.stl_53 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 110pt;
+	top: 277.4473pt;
+}
+.stl_54 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 463.54pt;
+	top: 251.4473pt;
+}
+.stl_55 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 463.54pt;
+	top: 276.4473pt;
+}
+.stl_56 {
+	position: absolute;
+	line-height: 25pt;
+	left: 463.54pt;
+	top: 301.4473pt;
+}
+.stl_57 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 544.54pt;
+	top: 251.4473pt;
+}
+.stl_58 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 544.54pt;
+	top: 276.4473pt;
+}
+.stl_59 {
+	position: absolute;
+	line-height: 10.05469pt;
+	left: 72.99pt;
+	top: 278.4025pt;
+}
+.stl_60 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 110pt;
+	top: 302.4473pt;
+}
+.stl_61 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 538.98pt;
+	top: 301.4473pt;
+}
+.stl_62 {
+	position: absolute;
+	line-height: 10.05469pt;
+	left: 70.49pt;
+	top: 303.4025pt;
+}
+.stl_63 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 21pt;
+	top: 654.4473pt;
+}
+.stl_64 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 418pt;
+	top: 656.2078pt;
+}
+.stl_65 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 537.98pt;
+	top: 655.6273pt;
+}
+.stl_66 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 543.54pt;
+	top: 674.1273pt;
+}
+.stl_67 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 543.54pt;
+	top: 689.4473pt;
+}
+.stl_68 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 418pt;
+	top: 675.7078pt;
+}
+.stl_69 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 418pt;
+	top: 694.7078pt;
+}
+.stl_70 {
+	position: absolute;
+	line-height: 20pt;
+	left: 418pt;
+	top: 714.7078pt;
+}
+.stl_71 {
+	position: absolute;
+	line-height: 20pt;
+	left: 418pt;
+	top: 734.7078pt;
+}
+.stl_72 {
+	position: absolute;
+	line-height: 20pt;
+	left: 418pt;
+	top: 754.7078pt;
+}
+.stl_73 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 543.54pt;
+	top: 709.4473pt;
+}
+.stl_74 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 543.54pt;
+	top: 729.4473pt;
+}
+.stl_75 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 25pt;
+	top: 749.4473pt;
+}
+.stl_76 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 543.54pt;
+	top: 749.4473pt;
+}
+.stl_77 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 25pt;
+	top: 763.3578pt;
+}
+.stl_78 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 25pt;
+	top: 776.3578pt;
+}
+.stl_79 {
+	position: absolute;
+	line-height: 11.17188pt;
+	left: 537.98pt;
+	top: 769.4473pt;
+}
+.stl_80 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 418pt;
+	top: 775.2078pt;
+}
+.stl_81 {
+	position: absolute;
+	line-height: 8.9375pt;
+	left: 482.75pt;
+	top: 806.3578pt;
+}
+body > div {
+min-width: 595pt;
+min-height: 842pt;
+}
